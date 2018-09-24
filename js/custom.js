@@ -117,7 +117,7 @@ $(document).ready(function()
 			var gallery = $('.gallery_slider');
 			gallery.owlCarousel(
 			{
-				autoplay:false,
+				autoplay:true,
 				loop:true,
 				smartSpeed:1200,
 				nav:false,
